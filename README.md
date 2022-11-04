@@ -1,2 +1,2 @@
 # ionic_todo
-An Ionic application using Ionic Storage package.
+An Ionic React application using Ionic Storage package.
